@@ -1,1 +1,4 @@
 data/restructured_data.csv
+final/train.parquet
+final/test.parquet
+final_copy
